@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">NotificationTool</string>
+    
+    <string name="send_btn_pulldown">Pull down</string>
+    <string name="send_btn_headsup">Headsup</string>
+    <string name="send_btn_custom">Custom</string>
+    <string name="send_btn_headsup_fullintent">Headsup(FI)</string>
+
+    <string name="normal_notification_title">Normal Notification Title</string>
+    <string name="normal_notification_content">Normal Notification Content</string>
+
+    <string name="expand_notification_title">I am an expand notification</string>
+    <string name="expand_notification_content">I can be expand by sliding.</string>
+    <string name="expand_notification_big_title">I had been expanded</string>
+    <string name="expand_notification_big_summary">I can be closed</string>
+
+    <string name="headsup_notification_title">I am a Headsup Notification</string>
+    <string name="headsup_notification_content">Implement headsup by settings Priority and Vibrate(Sound).</string>
+
+    <string name="headsup_fullintent_notification_title">I am a Heasup notification</string>
+    <string name="headsup_fullintent_notification_content">Implement headsup by setting the full screen intent.</string>
+
+
+    <string-array name="expand_content">
+        <item>I am in Line1</item>
+        <item>I am in Line2</item>
+        <item>I am in Line3</item>
+        <item>I am in Line4</item>
+    </string-array>
+
 </resources>
